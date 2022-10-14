@@ -1,0 +1,14 @@
+{
+    "HomePage" : {
+        "lnkSignIn": "abc",
+        "lnkContactUs": "bcd"
+    },
+    "LoginPage": {
+        "txtUserName": "user",
+        "txtPassword": "password",
+        "btnSignIn" : "signIn"
+    },
+    "MainPage": {
+        "btnMainPage":"main"
+    }
+}
